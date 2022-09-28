@@ -8,3 +8,6 @@ xcode-select --install
 brew update && brew upgrade brew-cask && brew cleanup && brew cask cleanup
 
 brew cask install google-chrome
+brew cask install firefox
+brew cask install discord
+brew cask install slack
